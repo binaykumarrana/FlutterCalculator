@@ -2,10 +2,7 @@
 
 Sample calculator using flutter
 
-iOS output
 <img width="382" alt="iOS" src="https://user-images.githubusercontent.com/9819377/83936969-484f2e00-a7fb-11ea-9c1e-879b852e5264.png">
-Android output
-![Android](https://user-images.githubusercontent.com/9819377/83936949-32416d80-a7fb-11ea-9712-f090d68e7dfe.png)
 
 ## Getting Started
 
